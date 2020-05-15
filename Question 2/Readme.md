@@ -27,6 +27,7 @@ Strength of the cell S ):
 |:--:|:--:|:--:|
 |0|1|0|
 |0|0|0|
+
 At time t = 0
 
 
@@ -34,6 +35,7 @@ At time t = 0
 |:--:|:--:|:--:|
 |1 |1 |1|
 |0 |1 |0|
+
 
 At time t = 1
 
@@ -49,6 +51,8 @@ border.
 |:--:|:--:|:--:|
 |7 |9| 7|
 |6 |7 |6|
+
+
 At time = 3
 
 The vampires are attacking from the air and each have a hitpoint H. Each vampire has been
